@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'touchVJ_ProjectTests' target in the 'touchVJ_ProjectTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
